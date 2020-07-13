@@ -10,7 +10,7 @@ This GitHub repository provides for Alert signal detection and separation on iOS
 You can find the paper for this GitHub repository: https://ieeexplore.ieee.org/abstract/document/9106356
 ## Users Guides
 
-[iOS]( User Guide- iOS Alert Signal Detection.pdf)
+[iOS](https://github.com/ssprl/Alert-signal-detector-and-separator/blob/master/User%20Guide-%20iOS%20Alert%20Signal%20Detection.docx.pdf)
 
 ## Requirements 
 - iPhone X running iOS 13.0.1
