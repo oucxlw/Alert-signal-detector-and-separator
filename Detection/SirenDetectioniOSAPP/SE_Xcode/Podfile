@@ -1,0 +1,9 @@
+#platform :ios, '9.0'
+
+target 'CoreAudio' do
+  use_frameworks!
+  pod 'Firebase/Core'
+  pod 'Firebase/Analytics'
+  pod 'Firebase/MLModelInterpreter'
+
+end
