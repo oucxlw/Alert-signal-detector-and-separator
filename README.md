@@ -13,18 +13,17 @@ You can find the paper for this GitHub repository: https://ieeexplore.ieee.org/a
 [iOS]( User Guide- iOS Alert Signal Detection.pdf)
 
 ## Requirements 
-1. iPhone X running iOS 13.0.1
-2. Tensorflow 
-3. TensorflowLite
-4. Firebase
-NOTE** The implementation procedure is not in use now since the tensorflow versions have changed significantly. The .pb version is no longer supported by iOS and the .tflite versions have been released. The feature extraction and training procedure can be used. Look into  for latest iOS implementation 
+- iPhone X running iOS 13.0.1
+- Tensorflow 
+- TensorflowLite
+- Firebase
 
 ## License and Citation
 The codes are licensed under MIT license.
 
 For any utilization of the code content of this repository, one of the following books needs to get cited by the user:
 
-G. S. Bhat, N. Shankar and I. M. S. Panahi, "Design and Integration of Alert Signal Detector and Separator for Hearing Aid Applications," in IEEE Access, vol. 8, pp. 106296-106309, 2020, doi: 10.1109/ACCESS.2020.2999546.
+- G. S. Bhat, N. Shankar and I. M. S. Panahi, "Design and Integration of Alert Signal Detector and Separator for Hearing Aid Applications," in IEEE Access, vol. 8, pp. 106296-106309, 2020, doi: 10.1109/ACCESS.2020.2999546.
 
 ## Disclaimer
 This work was supported in part by the National Institute of the Deafness and Other Communication Disorders (NIDCD) of the National
