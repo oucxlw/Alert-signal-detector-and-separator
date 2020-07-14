@@ -11,8 +11,8 @@ You can find the paper for this GitHub repository: https://ieeexplore.ieee.org/a
 
 ## Audio-Video Demo
 
-https://youtu.be/lwZmtfAhZeQ
-https://utdallas.edu/ssprl/hearing-aid-project/speech-enhancement/alert-signal-integration/
+- https://youtu.be/lwZmtfAhZeQ
+- https://utdallas.edu/ssprl/hearing-aid-project/speech-enhancement/alert-signal-integration/
 
 ## Users Guides
 
