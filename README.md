@@ -1,4 +1,3 @@
-# Alert-signal-detector-and-separator
 # Design and Integration of alert signal detector and separator for hearing Aid applications
 
 
@@ -25,13 +24,11 @@ You can find the paper for this GitHub repository: https://ieeexplore.ieee.org/a
 - Firebase
 
 ## License and Citation
-The codes are licensed under MIT license.
+The codes are licensed under open-source MIT license.
 
 For any utilization of the code content of this repository, one of the following books needs to get cited by the user:
 
 - G. S. Bhat, N. Shankar and I. M. S. Panahi, "Design and Integration of Alert Signal Detector and Separator for Hearing Aid Applications," in IEEE Access, vol. 8, pp. 106296-106309, 2020, doi: 10.1109/ACCESS.2020.2999546.
 
 ## Disclaimer
-This work was supported in part by the National Institute of the Deafness and Other Communication Disorders (NIDCD) of the National
-
-Institutes of Health (NIH) under Award 1R01DC015430-04. The content is solely the responsibility of the authors and does not necessarily represent the official views of the NIH
+This work was supported in part by the National Institute of the Deafness and Other Communication Disorders (NIDCD) of the National Institutes of Health (NIH) under Award 1R01DC015430-04. The content is solely the responsibility of the authors and does not necessarily represent the official views of the NIH
